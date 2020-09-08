@@ -8,4 +8,4 @@ Welcome to my ✨ profile ✨!
 
 Love ya'll!
 
-*By the way [Hyperon](mailto:pigerly@hyperonmc.com) is looking for developers! 🤗 *
+*By the way [Hyperon](mailto:pigerly@hyperonmc.com) is looking for developers! 🤗*
