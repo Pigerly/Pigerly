@@ -2,10 +2,8 @@
 
 Welcome to my ✨ profile ✨!
 
-- 🔭 I’m currently working on [Hyperon](https://hyperonmc.com) & [Caviel](https://github.com/CavielLibraries)!
+- 🔭 I’m currently working on [Hyperon](https://hyperonmc.com) & [Caviel](https://github.com/CavielLibraries) as always!
 - 📫 You can reach me at [contact@pigerly.com](mailto:contact@pigerly.com)!
-- ⛈ Fun fact, actually really sad fact, I can't swim. (JK)
+- ⛈ Fun fact, actually really sad fact, I can't swim.
 
-Love ya'll!
-
-*By the way [Hyperon](mailto:pigerly@hyperonmc.com) is looking for developers! 🤗*
+*XOXO! By the way [Hyperon](mailto:pigerly@hyperonmc.com)'s looking for developers! 🤗*
